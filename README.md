@@ -1,7 +1,4 @@
 # Slot-B-OOAD-CSA1178
-
-Programs to be complete: 
-
 1. Develop a system using UML for Passport Management System, It should verify the passport details 
 of the applicant by the central computer. The details regarding the passport will be provided to the 
 central computer and the computer will verify the details of the applicant and provide approval to 
